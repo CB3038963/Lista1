@@ -1,0 +1,7 @@
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\bin\Debug\Lista1Ex7.exe.config
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\bin\Debug\Lista1Ex7.exe
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\bin\Debug\Lista1Ex7.pdb
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.csproj.AssemblyReference.cache
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.csproj.CoreCompileInputs.cache
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.exe
+C:\Users\Juca\Documents\Repositorio\Lista1Ex7\Lista1Ex7\obj\Debug\Lista1Ex7.pdb
